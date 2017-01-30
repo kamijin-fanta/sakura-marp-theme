@@ -1,0 +1,36 @@
+#container .slide_wrapper {
+  font-family: 'Yu Gothic', 'Meiryo';
+  font-weight: 500;
+}
+
+#container .slide_wrapper[data-template="header"] .slide {
+  background: #53585f;
+  background-image: url(./image/main-footer.svg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 150%;
+  color: white;
+}
+
+#container .slide_wrapper[data-template="header"] .slide h1 {
+  color: white;
+}
+
+#container .slide_wrapper[data-template="header"] .slide .slide_page {
+  display: none;
+}
+
+#container .slide_wrapper .slide {
+  background: white;
+  background-image: url(./image/content-footer.svg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-bottom: 80px;
+}
+
+#container .slide_wrapper .slide .slide_page {
+  right: 38px;
+  bottom: 10px;
+  color: #53585f;
+}
