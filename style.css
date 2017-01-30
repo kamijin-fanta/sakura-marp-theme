@@ -40,10 +40,10 @@
 }
 
 #container .slide_wrapper .slide .slide_page {
-  right: 21px;
+  right: calc(0.02px * (var(--slide-width))) !important;
+  width: calc(0.04px * (var(--slide-width))) !important;
   bottom: 10px;
   color: #53585f;
-  width: 38px;
   text-align: center;
   font-size: 0.7em;
 }
