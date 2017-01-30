@@ -8,8 +8,18 @@
   background-image: url(./image/main-footer.svg);
   background-position: bottom center;
   background-repeat: no-repeat;
-  background-size: 150%;
+  background-size: 100%;
   color: white;
+}
+
+#container .slide_wrapper[data-template="header"] mark {
+  background: white;
+  color: #53585f;
+}
+#container .slide_wrapper mark {
+  background: #53585f;
+  color: white;
+  padding: 0 0.5rem;
 }
 
 #container .slide_wrapper[data-template="header"] .slide h1 {
@@ -30,7 +40,13 @@
 }
 
 #container .slide_wrapper .slide .slide_page {
-  right: 38px;
+  right: 21px;
   bottom: 10px;
   color: #53585f;
+  width: 38px;
+  text-align: center;
+  font-size: 0.7em;
+}
+#container .slide_wrapper u {
+  color: #e76c81;
 }
