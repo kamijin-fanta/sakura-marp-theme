@@ -40,13 +40,17 @@
 }
 
 #container .slide_wrapper .slide .slide_page {
+  border-radius: 0.2rem 0.2rem 0 0;
+  padding: 0.4rem 0;
+  background: #DBDDDF;
   right: calc(0.02px * (var(--slide-width))) !important;
   width: calc(0.04px * (var(--slide-width))) !important;
-  bottom: 10px;
+  bottom: 0px;
   color: #53585f;
   text-align: center;
   font-size: 0.7em;
 }
+
 #container .slide_wrapper u {
   color: #e76c81;
 }
