@@ -7,7 +7,7 @@ Marp: https://github.com/yhatt/marp/
 ```md
 <!-- page_number: true -->
 <!-- $size: 16:9 -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/kamijin-fanta/sakura-marp-theme/master/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kamijin-fanta/sakura-marp-theme@master/style.css">
 ```
 
 

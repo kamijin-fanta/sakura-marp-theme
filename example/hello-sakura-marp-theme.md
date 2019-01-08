@@ -1,7 +1,7 @@
 <!-- page_number: true -->
 <!-- $size: 16:9 -->
 <!-- $size: 4:3 -->
-<link rel="stylesheet" href="https://rawgit.com/kamijin-fanta/sakura-marp-theme/master/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kamijin-fanta/sakura-marp-theme@master/style.css">
 
 <!-- *template: title -->
 
@@ -20,7 +20,7 @@ Markdownの最初に以下のテキストを記述してください。
 ```md
 <!-- page_number: true -->
 <!-- $size: 4:3 -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/kamijin-fanta/sakura-marp-theme/master/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kamijin-fanta/sakura-marp-theme@master/style.css">
 ```
 
 #### 16:9の場合
@@ -28,7 +28,7 @@ Markdownの最初に以下のテキストを記述してください。
 ```md
 <!-- page_number: true -->
 <!-- $size: 16:9 -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/kamijin-fanta/sakura-marp-theme/master/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kamijin-fanta/sakura-marp-theme@master/style.css">
 ```
 
 ---
